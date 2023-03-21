@@ -1,0 +1,1 @@
+Execute the `npm install` to install the dependencies and `npm run start` to view in your browser
